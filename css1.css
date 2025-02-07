@@ -1,0 +1,42 @@
+html, body{
+ height: 100%;
+}
+
+body{
+	margin: 0;
+	background: linear-gradient(#9796f0,#fbc7d4,#9796f0);
+
+}
+
+.container p{
+	display: inline-block;
+
+}
+
+p {
+	font-size: 50px;
+	text-transform: uppercase;
+    background: linear-gradient(45deg, #ec008c,#fc6767);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+	font-family: ARIAL BLACK;
+	
+}
+
+button{
+	height: 100px;
+	width: 300px;
+	color: #ec008c;
+	background: linear-gradient(45deg, #ec008c,#fc6767);
+	border: none;
+	border-radius: 20px;
+
+
+}
+
+h3 {
+	text-transform: uppercase;
+	background: linear-gradient(45deg, #ee9ca7,#ffdde1);
+	    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
